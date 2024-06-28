@@ -52,7 +52,7 @@ body{
 }
 
 .card{
-    border: 2px solid black;
+    border: none;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
    width: 150px;
    height: 160px;
